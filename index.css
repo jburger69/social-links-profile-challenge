@@ -13,7 +13,14 @@ body {
 }
 
 .card {
-    width: 300px;
+    width: 384px;
+    height: 611px;
     text-align: center;
     margin: 25px;
+}
+
+.card-image {
+    border-radius: 50%;
+    width: 88px;
+    height: 88px;
 }
