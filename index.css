@@ -73,3 +73,7 @@ body {
     border-radius: 8px;
     background-color: #333333;
 }
+
+.card-link:hover {
+    background-color: #C4F82A;
+}
