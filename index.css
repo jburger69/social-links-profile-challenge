@@ -10,6 +10,7 @@ body {
     margin-right: -50%;
     transform: translate(-50%, -50%);
     background-color: #333333;
+    border-radius: 12px;
 }
 
 .card {
@@ -17,6 +18,9 @@ body {
     height: 611px;
     text-align: center;
     margin: 25px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .card-image {
