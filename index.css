@@ -9,7 +9,7 @@ body {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
-    background-color: #333333;
+    background-color: #1f1f1f;
     border-radius: 12px;
     
 }
@@ -59,4 +59,16 @@ body {
 .card-links {
     width: 304px;
     height: 289px;
+}
+
+.card-link {
+    width: 304px;
+    padding: 12px;
+    font-family: "Inter" serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #FFFFFF;
+    border:1px solid #333333;
+    border-radius: 8px;
+    background-color: #333333;
 }
